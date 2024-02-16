@@ -1,0 +1,5 @@
+SELECT customer.churn, services.internet_service, COUNT(*)
+FROM customer
+INNER JOIN services ON customer.customer_id=services.customer_id
+GROUP BY services.internet_service, customer.churn
+ORDER BY churn DESC, services.internet_service DESC;

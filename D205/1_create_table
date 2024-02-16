@@ -1,0 +1,17 @@
+CREATE TABLE public.services
+(
+    customer_id text COLLATE pg_catalog."default" NOT NULL,
+    internet_service text COLLATE pg_catalog."default" NOT NULL,
+    phone boolean NOT NULL,
+    multiple boolean NOT NULL,
+    online_security boolean NOT NULL,
+    online_backup boolean NOT NULL,
+    device_protection boolean NOT NULL,
+    tech_support boolean NOT NULL,
+    CONSTRAINT "services _pkey" PRIMARY KEY (customer_id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE public.services
+    OWNER to postgres;
