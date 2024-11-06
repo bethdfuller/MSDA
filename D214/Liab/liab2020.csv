@@ -1,0 +1,226 @@
+
+UNIQUE_CARRIER, Description, QUARTER,Sum(CURR_LIABILITIES)
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern","1",78295
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern","2",82166
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern","3",73477
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern","4",84273
+"0WQ","Avjet Corporation","1",40347
+"0WQ","Avjet Corporation","2",37566
+"0WQ","Avjet Corporation","3",40465
+"0WQ","Avjet Corporation","4",35607
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC","1",11500
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC","2",16948
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC","3",16245
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC","4",18535
+"1TQ","Rhoades Aviation dba Transair","1",240
+"1TQ","Rhoades Aviation dba Transair","2",1503
+"1TQ","Rhoades Aviation dba Transair","3",1605
+"1TQ","Rhoades Aviation dba Transair","4",1529
+"27Q","Jet Aviation Flight Services, Inc.","1",19179
+"27Q","Jet Aviation Flight Services, Inc.","2",10302
+"27Q","Jet Aviation Flight Services, Inc.","3",8988
+"27Q","Jet Aviation Flight Services, Inc.","4",7089
+"2HQ","Elite Airways LLC","1",21198
+"2HQ","Elite Airways LLC","2",19530
+"2HQ","Elite Airways LLC","3",17822
+"2HQ","Elite Airways LLC","4",16054
+"3EQ","Scott Aviation, LLC  d/b/a  Silver Air","1",10729
+"3EQ","Scott Aviation, LLC  d/b/a  Silver Air","2",8789
+"3EQ","Scott Aviation, LLC  d/b/a  Silver Air","3",8052
+"3EQ","Scott Aviation, LLC  d/b/a  Silver Air","4",12340
+"3FQ","Western Air Charter, Inc.  d/b/a  Jet Edge","1",
+"3FQ","Western Air Charter, Inc.  d/b/a  Jet Edge","2",
+"3FQ","Western Air Charter, Inc.  d/b/a  Jet Edge","3",
+"3FQ","Western Air Charter, Inc.  d/b/a  Jet Edge","4",19028
+"3M","Silver Airways","1",52119
+"3M","Silver Airways","2",-56936
+"3M","Silver Airways","3",71684
+"3M","Silver Airways","4",64497
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo","1",2333
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo","2",2015
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo","3",6222
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo","4",5608
+"5X","United Parcel Service","1",731054
+"5X","United Parcel Service","2",769105
+"5X","United Parcel Service","3",856768
+"5X","United Parcel Service","4",918992
+"5Y","Atlas Air Inc.","1",639160
+"5Y","Atlas Air Inc.","2",730091
+"5Y","Atlas Air Inc.","3",766650
+"5Y","Atlas Air Inc.","4",808040
+"8C","Air Transport International","1",38025
+"8C","Air Transport International","2",43450
+"8C","Air Transport International","3",52478
+"8C","Air Transport International","4",46342
+"9E","Endeavor Air Inc.","1",164743
+"9E","Endeavor Air Inc.","2",123344
+"9E","Endeavor Air Inc.","3",143808
+"9E","Endeavor Air Inc.","4",143854
+"9S","Southern Air Inc.","1",31103
+"9S","Southern Air Inc.","2",24127
+"9S","Southern Air Inc.","3",27975
+"9S","Southern Air Inc.","4",35665
+"AA","American Airlines Inc.","1",18981343
+"AA","American Airlines Inc.","2",17618289
+"AA","American Airlines Inc.","3",16341755
+"AA","American Airlines Inc.","4",16307869
+"ABX","ABX Air Inc","1",49638
+"ABX","ABX Air Inc","2",47375
+"ABX","ABX Air Inc","3",50665
+"ABX","ABX Air Inc","4",41307
+"AS","Alaska Airlines Inc.","1",5425001
+"AS","Alaska Airlines Inc.","2",5869856
+"AS","Alaska Airlines Inc.","3",5952016
+"AS","Alaska Airlines Inc.","4",5798551
+"B6","JetBlue Airways","1",3622488
+"B6","JetBlue Airways","2",3984752
+"B6","JetBlue Airways","3",2808205
+"B6","JetBlue Airways","4",2673710
+"C5","CommuteAir LLC dba CommuteAir","1",
+"C5","CommuteAir LLC dba CommuteAir","2",
+"C5","CommuteAir LLC dba CommuteAir","3",
+"C5","CommuteAir LLC dba CommuteAir","4",41517
+"CP (2)","Compass Airlines","1",31425
+"CP (2)","Compass Airlines","2",23950
+"CP (2)","Compass Airlines","3",
+"CP (2)","Compass Airlines","4",
+"DL","Delta Air Lines Inc.","1",19367492
+"DL","Delta Air Lines Inc.","2",20168311
+"DL","Delta Air Lines Inc.","3",19734715
+"DL","Delta Air Lines Inc.","4",15930391
+"EV","ExpressJet Airlines LLC d/b/a aha!","1",107479
+"EV","ExpressJet Airlines LLC d/b/a aha!","2",104612
+"EV","ExpressJet Airlines LLC d/b/a aha!","3",88455
+"EV","ExpressJet Airlines LLC d/b/a aha!","4",
+"F9","Frontier Airlines Inc.","1",1157510
+"F9","Frontier Airlines Inc.","2",1131012
+"F9","Frontier Airlines Inc.","3",1020959
+"F9","Frontier Airlines Inc.","4",1003057
+"FX","Federal Express Corporation","1",9600493
+"FX","Federal Express Corporation","2",10403541
+"FX","Federal Express Corporation","3",8488664
+"FX","Federal Express Corporation","4",8871529
+"G4","Allegiant Air","1",675901
+"G4","Allegiant Air","2",778439
+"G4","Allegiant Air","3",720383
+"G4","Allegiant Air","4",651113
+"G7","GoJet Airlines LLC d/b/a United Express","1",58725
+"G7","GoJet Airlines LLC d/b/a United Express","2",72311
+"G7","GoJet Airlines LLC d/b/a United Express","3",78627
+"G7","GoJet Airlines LLC d/b/a United Express","4",63113
+"GFQ","Gulf And Caribbean Cargo","1",30525
+"GFQ","Gulf And Caribbean Cargo","2",26231
+"GFQ","Gulf And Caribbean Cargo","3",27514
+"GFQ","Gulf And Caribbean Cargo","4",26305
+"HA","Hawaiian Airlines Inc.","1",1065397
+"HA","Hawaiian Airlines Inc.","2",1028670
+"HA","Hawaiian Airlines Inc.","3",954065
+"HA","Hawaiian Airlines Inc.","4",996151
+"KAQ","Kalitta Air LLC","1",149834
+"KAQ","Kalitta Air LLC","2",165389
+"KAQ","Kalitta Air LLC","3",271370
+"KAQ","Kalitta Air LLC","4",211939
+"KD","Western Global","1",32583
+"KD","Western Global","2",32669
+"KD","Western Global","3",70624
+"KD","Western Global","4",87646
+"KH","Aloha Air Cargo","1",-19017
+"KH","Aloha Air Cargo","2",-19532
+"KH","Aloha Air Cargo","3",-16512
+"KH","Aloha Air Cargo","4",-19743
+"KLQ","Kalitta Charters II","1",3340
+"KLQ","Kalitta Charters II","2",4148
+"KLQ","Kalitta Charters II","3",5437
+"KLQ","Kalitta Charters II","4",5676
+"L2","Lynden Air Cargo Airlines","1",13135
+"L2","Lynden Air Cargo Airlines","2",22150
+"L2","Lynden Air Cargo Airlines","3",25052
+"L2","Lynden Air Cargo Airlines","4",17000
+"M6","Amerijet International","1",84704
+"M6","Amerijet International","2",88607
+"M6","Amerijet International","3",76340
+"M6","Amerijet International","4",68022
+"MQ","Envoy Air","1",113207
+"MQ","Envoy Air","2",182135
+"MQ","Envoy Air","3",154123
+"MQ","Envoy Air","4",138181
+"N8","National Air Cargo Group Inc d/ba National Airlines","1",20374
+"N8","National Air Cargo Group Inc d/ba National Airlines","2",11300
+"N8","National Air Cargo Group Inc d/ba National Airlines","3",22527
+"N8","National Air Cargo Group Inc d/ba National Airlines","4",4907
+"NC","Northern Air Cargo Inc.","1",44120
+"NC","Northern Air Cargo Inc.","2",38878
+"NC","Northern Air Cargo Inc.","3",63768
+"NC","Northern Air Cargo Inc.","4",78000
+"NK","Spirit Air Lines","1",1231486
+"NK","Spirit Air Lines","2",1271182
+"NK","Spirit Air Lines","3",1296703
+"NK","Spirit Air Lines","4",1342022
+"OH","PSA Airlines Inc.","1",289597
+"OH","PSA Airlines Inc.","2",290964
+"OH","PSA Airlines Inc.","3",308106
+"OH","PSA Airlines Inc.","4",394143
+"OO","SkyWest Airlines Inc.","1",1053981
+"OO","SkyWest Airlines Inc.","2",1021213
+"OO","SkyWest Airlines Inc.","3",888039
+"OO","SkyWest Airlines Inc.","4",961115
+"PFQ","Asia Pacific","1",5457
+"PFQ","Asia Pacific","2",7680
+"PFQ","Asia Pacific","3",10562
+"PFQ","Asia Pacific","4",13213
+"PO","Polar Air Cargo Airways","1",194877
+"PO","Polar Air Cargo Airways","2",200191
+"PO","Polar Air Cargo Airways","3",170396
+"PO","Polar Air Cargo Airways","4",244439
+"QX","Horizon Air","1",636120
+"QX","Horizon Air","2",596188
+"QX","Horizon Air","3",264804
+"QX","Horizon Air","4",234715
+"SY","Sun Country Airlines d/b/a MN Airlines","1",341479
+"SY","Sun Country Airlines d/b/a MN Airlines","2",247442
+"SY","Sun Country Airlines d/b/a MN Airlines","3",259027
+"SY","Sun Country Airlines d/b/a MN Airlines","4",253743
+"U7","USA Jet Airlines Inc.","1",34925
+"U7","USA Jet Airlines Inc.","2",25976
+"U7","USA Jet Airlines Inc.","3",86614
+"U7","USA Jet Airlines Inc.","4",144910
+"UA","United Air Lines Inc.","1",16091109
+"UA","United Air Lines Inc.","2",16399600
+"UA","United Air Lines Inc.","3",15795614
+"UA","United Air Lines Inc.","4",12730039
+"WI","Sky Lease Cargo","1",33755
+"WI","Sky Lease Cargo","2",29246
+"WI","Sky Lease Cargo","3",38911
+"WI","Sky Lease Cargo","4",31720
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines","1",10386
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines","2",11104
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines","3",10162
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines","4",8322
+"WN","Southwest Airlines Co.","1",10241328
+"WN","Southwest Airlines Co.","2",9360641
+"WN","Southwest Airlines Co.","3",7804094
+"WN","Southwest Airlines Co.","4",7505890
+"X9","Omni Air International LLC","1",91437
+"X9","Omni Air International LLC","2",104008
+"X9","Omni Air International LLC","3",109219
+"X9","Omni Air International LLC","4",125270
+"XP","TEM Enterprises dba  Avelo Airlines","1",
+"XP","TEM Enterprises dba  Avelo Airlines","2",8545
+"XP","TEM Enterprises dba  Avelo Airlines","3",
+"XP","TEM Enterprises dba  Avelo Airlines","4",
+"YV","Mesa Airlines Inc.","1",150484
+"YV","Mesa Airlines Inc.","2",148747
+"YV","Mesa Airlines Inc.","3",167873
+"YV","Mesa Airlines Inc.","4",117199
+"YX","Republic Airline","1",398184
+"YX","Republic Airline","2",372613
+"YX","Republic Airline","3",407525
+"YX","Republic Airline","4",415553
+"ZW","Air Wisconsin Airlines Corp","1",76946
+"ZW","Air Wisconsin Airlines Corp","2",76948
+"ZW","Air Wisconsin Airlines Corp","3",82093
+"ZW","Air Wisconsin Airlines Corp","4",79549
+"All Rows","All Rows (including those not displayed)","1",93337270
+"All Rows","All Rows (including those not displayed)","2",93767377
+"All Rows","All Rows (including those not displayed)","3",86730732
+"All Rows","All Rows (including those not displayed)","4",79815537
