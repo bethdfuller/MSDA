@@ -1,0 +1,79 @@
+
+UNIQUE_CARRIER,Description,Sum(PASSENGERS)
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo",2399
+"5X","United Parcel Service",21390
+"5Y","Atlas Air Inc.",0
+"8C","Air Transport International",0
+"9S","Southern Air Inc.",0
+"AA","American Airlines Inc.",61703981
+"AC","Air Canada",1607
+"AD (1)","Avia Leasing Company",0
+"ADB","Antonov Company",0
+"AMQ","Ameristar Air Cargo",0
+"AQ","Aloha Airlines Inc.",4586306
+"AS","Alaska Airlines Inc.",11949955
+"AX","Trans States Airlines",1730175
+"B6","JetBlue Airways",3056371
+"BA","British Airways Plc",3
+"BCQ","Bradley Air Services Ltd.",165
+"C8 (1)","Chicago Express Airlines",571274
+"CO","Continental Air Lines Inc.",34635032
+"CS","Continental Micronesia",341179
+"DL","Delta Air Lines Inc.",86888411
+"ER","Astar USA, LLC",0
+"EV","ExpressJet Airlines LLC d/b/a aha!",6488234
+"EZ","Evergreen International Inc.",0
+"F9","Frontier Airlines Inc.",2997968
+"FCQ","Falcon Air Express",12933
+"FL","AirTran Airways Corporation",8253554
+"G4","Allegiant Air",32946
+"GL","Miami Air International",6253
+"GR","Gemini Air Cargo Airways",0
+"HA","Hawaiian Airlines Inc.",5441101
+"HLQ","Heavylift Cargo Airlines Lt",0
+"HP","America West Airlines Inc. (Merged with US Airways 9/05. Stopped reporting 10/07.)",19012929
+"JI (1)","Midway Airlines Inc.",2399325
+"JKQ","Express One International Inc.",0
+"JW","Arrow Air Inc.",0
+"KAQ","Kalitta Air LLC",0
+"L2","Lynden Air Cargo Airlines",0
+"M6","Amerijet International",0
+"MG","Champion Air",100
+"MQ","Envoy Air",10890718
+"N7","National Airlines",2350235
+"NA","North American Airlines",139009
+"NJ","Vanguard Airlines Inc.",1265808
+"NK","Spirit Air Lines",3186887
+"NW","Northwest Airlines Inc.",44786477
+"OH (1)","Comair Inc.",4516732
+"OW","Executive Airlines",485662
+"PCQ","Pace Airlines",670
+"PFQ","Asia Pacific",0
+"PLQ","Planet Airways",69452
+"PN","Pan American Airways Corp.",294717
+"PO","Polar Air Cargo Airways",0
+"PT (1)","Capital Cargo International",0
+"QX","Horizon Air",3914677
+"RD","Ryan International Airlines",1393
+"RLQ","Reliant Airlines",0
+"SM","Sunworld International Airlines",42639
+"SY","Sun Country Airlines d/b/a MN Airlines",1571099
+"T9","TransMeridian Airlines",601
+"TKQ","Trans-Air-Link Corporation",0
+"TNQ","Emery Worldwide Airlines",0
+"TW","Trans World Airways LLC",19667427
+"TZ","ATA Airlines d/b/a ATA",6455959
+"U7","USA Jet Airlines Inc.",0
+"UA","United Air Lines Inc.",63946774
+"US","US Airways Inc.",52657538
+"VIQ","Volga-Dnepr Airlines",0
+"WN","Southwest Airlines Co.",73628735
+"WO (1)","World Airways Inc.",650
+"X9","Omni Air International LLC",400539
+"XE","ExpressJet Airlines Inc.",7754109
+"XJ","Mesaba Airlines",5733533
+"XP","TEM Enterprises dba  Avelo Airlines",139930
+"YX (1)","Midwest Airline, Inc.",2184599
+"ZKQ","Zantop International",0
+"ZW","Air Wisconsin Airlines Corp",4101050
+"All Rows","All Rows (including those not displayed)",560321210

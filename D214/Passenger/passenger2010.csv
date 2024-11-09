@@ -1,0 +1,139 @@
+
+UNIQUE_CARRIER,Description,Sum(PASSENGERS)
+"04Q","Tradewind Aviation",6723
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",30492
+"0JQ","Vision Airlines",366925
+"0WQ","Avjet Corporation",5159
+"1AQ","Via Airlines d/b/a Sterling Airways",6009
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC",9313
+"1DQ","Island Airlines LLC",12006
+"2E","Smokey Bay Air Inc.",8315
+"2F","Frontier Flying Service",37741
+"2O","Island Air Service",17857
+"3E","Multi-Aero, Inc. d/b/a Air Choice One",11573
+"3F","Pacific Airways, Inc.",17742
+"3M","Silver Airways",255482
+"4W","Warbelow",40049
+"4Y (1)","Yute Air Aka Flight Alaska",48600
+"5F","Arctic Circle Air Service",0
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo",2481
+"5X","United Parcel Service",0
+"5Y","Atlas Air Inc.",0
+"7H","NEW PACIFIC AIRLINES",369029
+"7N","Inland Aviation Services",1693
+"7S","Ryan Air f/k/a Arctic Transportation",0
+"8C","Air Transport International",0
+"8D","Dynamic Aviation, Inc. d/b/a Beacon",7703
+"8E","Bering Air Inc.",77744
+"8V","Wright Air Service",28237
+"9E","Endeavor Air Inc.",10137598
+"9K","Cape Air",631436
+"9L","Colgan Air",2462547
+"9S","Southern Air Inc.",0
+"AA","American Airlines Inc.",65733760
+"ABX","ABX Air Inc",0
+"AC","Air Canada",11473
+"AJQ","Aerodynamics Inc. d/b/a SkyValue d/b/a SkyValue Airways",30001
+"AMQ","Ameristar Air Cargo",3879
+"AS","Alaska Airlines Inc.",14901113
+"AX","Trans States Airlines",1980638
+"B6","JetBlue Airways",21144663
+"BNQ","NetJets Large Aircraft Company L.L.C.",58
+"C5","CommuteAir LLC dba CommuteAir",852673
+"CH","Bemidji Airlines",0
+"CO","Continental Air Lines Inc.",30653722
+"CP (2)","Compass Airlines",3241977
+"CS","Continental Micronesia",162124
+"DL","Delta Air Lines Inc.",90141070
+"ELL","Ellis Air Taxi Inc.",236
+"EM","Empire Airlines Inc.",0
+"ER","Astar USA, LLC",0
+"EV","ExpressJet Airlines LLC d/b/a aha!",13586248
+"EZ","Evergreen International Inc.",0
+"F8","Freedom Airlines d/b/a HP Expr",847093
+"F9","Frontier Airlines Inc.",8879229
+"FCQ","Falcon Air Express",110789
+"FL","AirTran Airways Corporation",24095005
+"FRA","Freedom Air",73179
+"FX","Federal Express Corporation",0
+"G4","Allegiant Air",5871470
+"G7","GoJet Airlines LLC d/b/a United Express",2498467
+"GCH","Grand Canyon Helicopters",0
+"GFQ","Gulf And Caribbean Cargo",0
+"GL","Miami Air International",108178
+"GV","Grant Aviation",127720
+"H6","Hageland Aviation Service",194437
+"HA","Hawaiian Airlines Inc.",8229272
+"HB","Homer Air",14385
+"HBQ","Harris Air Services",282
+"J5","Kalinin Aviation LLC d/b/a Alaska Seaplanes",6552
+"JW","Arrow Air Inc.",0
+"K3","Venture Travel LLC d/b/a Taquan Air Service",17555
+"K5","Seaport Airlines, Inc.",97083
+"KAH","Kenmore Air Harbor",66260
+"KAQ","Kalitta Air LLC",0
+"KAT","Katmai Air",8641
+"KH","Aloha Air Cargo",0
+"KLQ","Kalitta Charters II",0
+"KO","Alaska Central Express",1290
+"KS","Peninsula Airways Inc.",222768
+"L2","Lynden Air Cargo Airlines",0
+"L3","Lynx Aviation d/b/a Frontier Airlines",595499
+"LW","Pacific Wings Airlines",34366
+"M6","Amerijet International",0
+"MQ","Envoy Air",15170066
+"MW","Mokulele Flight Services, Inc.",108841
+"N8","National Air Cargo Group Inc d/ba National Airlines",2
+"NA","North American Airlines",44874
+"NC","Northern Air Cargo Inc.",0
+"NEW","New England Airlines Inc.",21157
+"NK","Spirit Air Lines",5523763
+"OH","PSA Airlines Inc.",4944010
+"OH (1)","Comair Inc.",6036648
+"OO","SkyWest Airlines Inc.",22645885
+"OW","Executive Airlines",1577965
+"PFQ","Asia Pacific",0
+"PM","Prescott Support Company, Inc.",0
+"PO","Polar Air Cargo Airways",0
+"POQ","Polyot Airlines",0
+"PRQ","Florida West Airlines Inc.",0
+"PT","Piedmont Airlines",2981182
+"PT (1)","Capital Cargo International",0
+"Q5","40-Mile Air",409
+"QX","Horizon Air",6015336
+"RP","Chautauqua Airlines Inc.",5837756
+"S5","Shuttle America Corp.",4456312
+"SEB","Seaborne Virgin Islands, Inc.",198157
+"SI","Sierra Pacific Airlines",15562
+"SLQ","Sky King Inc.",150077
+"SNK","Spernak Airways Inc.",10912
+"SY","Sun Country Airlines d/b/a MN Airlines",984805
+"U5","USA 3000 Airlines",138709
+"U7","USA Jet Airlines Inc.",83835
+"UA","United Air Lines Inc.",43322801
+"US","US Airways Inc.",45179861
+"V8","Iliamna Air Taxi",12870
+"VI","Vieques Air Link Inc.",61832
+"VIQ","Volga-Dnepr Airlines",0
+"VX","Virgin America",3826785
+"WE","Centurion Cargo Inc.",0
+"WI","Sky Lease Cargo",0
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1292
+"WN","Southwest Airlines Co.",106270433
+"WO (1)","World Airways Inc.",2433
+"WP","Island Air Hawaii",358164
+"WRD","Ward Air",54
+"WST","Friday Harbor Seaplanes",6779
+"X4","Air Excursions LLC",21011
+"X9","Omni Air International LLC",99305
+"XE","ExpressJet Airlines Inc.",14645044
+"XJ","Mesaba Airlines",5987063
+"XP","TEM Enterprises dba  Avelo Airlines",291227
+"YR","Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",241469
+"YV","Mesa Airlines Inc.",8870898
+"YX","Republic Airline",10757217
+"Z3","Bidzy Ta Hot Aana, Inc. d/b/a Tanana Air Service",1562
+"Z3Q","PM Air, LLC",27727
+"ZK","Great Lakes Airlines",499439
+"ZW","Air Wisconsin Airlines Corp",5573362
+"All Rows","All Rows (including those not displayed)",632140500
